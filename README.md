@@ -14,7 +14,7 @@
 </p><br>
 
 
-# Filmquiz
+# Filmquiz [DOWNLOAD THE INSTALLER HERE](https://github.com/hansalemaos/FilmQuiz/raw/main/film_quiz_setup.exe)
 
 
 
